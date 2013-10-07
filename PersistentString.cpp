@@ -1,11 +1,3 @@
-//
-//  PersistentString.cpp
-//  PersistentString
-//
-//  Created by jack liang on 2013-09-26.
-//  Copyright (c) 2013 jack liang. All rights reserved.
-//
-
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
